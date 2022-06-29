@@ -1,0 +1,54 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+	<title>New Project</title>
+	<defs>
+		<image  width="600" height="600" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYAQMAAACEqAqfAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAENJREFUeJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL4NsiAAAfkdBQsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.s1 { fill: none;stroke: #808080;stroke-width: 3;stroke-dasharray: 12,6 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="Library Module" style="transform: matrix(1.5,0,0,1.5,157.5,115.5)" >
+		<tspan x="0" y="0" class="t0">L</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">b</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">y</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">M</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">d</tspan><tspan  y="0" class="t0">u</tspan><tspan  y="0" class="t0">l</tspan><tspan  y="0" class="t0">e
+</tspan>
+	</text>
+	<text id="Component {}" style="transform: matrix(1.5,0,0,1.5,171,267)" >
+		<tspan x="-69.7" y="0" class="t0">C</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">m</tspan><tspan  y="0" class="t0">p</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="-15.3" y="28.8" class="t0">{</tspan><tspan  y="28.8" class="t0">}</tspan><tspan  y="28.8" class="t0">
+</tspan>
+	</text>
+	<text id="Directive {}" style="transform: matrix(1.5,0,0,1.5,441,268.5)" >
+		<tspan x="-53.7" y="0" class="t0">D</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">c</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">v</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="-15.3" y="28.8" class="t0">{</tspan><tspan  y="28.8" class="t0">}</tspan><tspan  y="28.8" class="t0">
+</tspan>
+	</text>
+	<text id="Service {}" style="transform: matrix(1.5,0,0,1.5,129,465)" >
+		<tspan x="-44.3" y="0" class="t0">S</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">v</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">c</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="-15.3" y="28.8" class="t0">{</tspan><tspan  y="28.8" class="t0">}</tspan><tspan  y="28.8" class="t0">
+</tspan>
+	</text>
+	<text id="Value 3.1415" style="transform: matrix(1.5,0,0,1.5,300,466.5)" >
+		<tspan x="-33" y="0" class="t0">V</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">l</tspan><tspan  y="0" class="t0">u</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="-42" y="28.8" class="t0">3</tspan><tspan  y="28.8" class="t0">.</tspan><tspan  y="28.8" class="t0">1</tspan><tspan  y="28.8" class="t0">4</tspan><tspan  y="28.8" class="t0">1</tspan><tspan  y="28.8" class="t0">5
+</tspan>
+	</text>
+	<text id="FN λ" style="transform: matrix(1.5,0,0,1.5,471,463.5)" >
+		<tspan x="-15.9" y="0" class="t0">F</tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="-7.1" y="28.8" class="t0">λ
+</tspan>
+	</text>
+	<path id="Shape 1" class="s1" d="m21 27h562.5v553.5h-562.5z"/>
+	<path id="Shape 2" class="s1" d="m42 191.9h256.1v179.1h-256.1z"/>
+	<path id="Shape 2 copy" class="s1" d="m306.4 190.5h256.1v179.1h-256.1z"/>
+	<path id="Shape 2 copy 2" class="s1" d="m43.5 383.9h168.8v175.6h-168.8z"/>
+	<path id="Shape 2 copy 3" class="s1" d="m218.6 383.9h168.8v175.6h-168.8z"/>
+	<text id="" style="transform: matrix(1,0,0,1,277,-108)" >
+	</text>
+	<path id="Shape 2 copy 4" class="s1" d="m393.7 383.9h168.8v175.6h-168.8z"/>
+</svg>
