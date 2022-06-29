@@ -9,6 +9,8 @@ info: |
   Presentation slides for developers.
 drawings:
   persist: false
+  presenterOnly: true
+download: true
 title: An overview of Angular
 ---
 
@@ -307,7 +309,7 @@ In this way, you're using the Angular and JavaScript module systems together. Al
 
 </div>
 <div class="image-lib">
-  <img  src="/libraries.svg" />
+  <img src="/libraries.svg" />
 
 </div>
 </div>
@@ -646,12 +648,13 @@ Data binding automatically keeps your page up-to-date based on your application'
 
 <br>
 
-```html {monaco}
+```html
 <button type="button" [disabled]="isUnchanged">Save</button>
 ```
 
 <br>
-```html {monaco}
+
+```html
 <input [disabled]="condition ? true : false">
 <input [attr.disabled]="condition ? 'disabled' : null">
 ```
@@ -894,6 +897,7 @@ Angular's DI framework provides dependencies to a class upon instantiation. Use 
   display: none;
 }
 </style>
+
 
 
 ---
